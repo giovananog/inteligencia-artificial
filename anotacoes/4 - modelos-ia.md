@@ -43,3 +43,10 @@
 **Ensemble Models:** Combinam vários modelos de aprendizado para melhorar a precisão e o desempenho preditivo.
 
 ![Ensemble Models](./imagens/ensemble.png)
+
+
+---
+
+
+![Análise de Cenários](./imagens/analise-cenarios.png)
+
