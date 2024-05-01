@@ -1,6 +1,9 @@
 • **Aristoteles (384-322 a.C.)** - Primeiro a formular um conjunto preciso de leis que governam a parte racional da mente.
+
 • **Ramon Lull (1315)** - Apresentou a ideia de que o raciocínio útil poderia na realidade ser conduzido por um artefato mecânico.
+
 • **Thomas Hobbes (1588-1679)** - Propôs que o raciocínio era semelhante à computação numérica, ou seja, que “efetuamos somas e subtrações em nossos pensamentos silenciosos”.
+
 • **Leonardo da Vinci (1452-1519)** - Projetou, mas não construiu, uma calculadora mecânica.
 
 **1943**
